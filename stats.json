@@ -1,24 +1,26 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-11-11",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K": true,
-    "LeetCode_Divisible_and_Non-divisible_Sums_Difference": true
+    "LeetCode_Divisible_and_Non-divisible_Sums_Difference": true,
+    "LeetCode_Mirror_Distance_of_an_Integer": true
   },
   "activityHistory": {
-    "2026-11-11": 2
+    "2026-11-11": 3
   },
   "todayProblems": [
     "Minimum Operations to Make Array Sum Divisible by K",
-    "Divisible and Non-divisible Sums Difference"
+    "Divisible and Non-divisible Sums Difference",
+    "Mirror Distance of an Integer"
   ]
 }
