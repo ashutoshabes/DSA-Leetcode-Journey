@@ -1,11 +1,11 @@
 {
-  "totalSolved": 5,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-11-12",
-  "todayCount": 2,
+  "totalSolved": 6,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-11-13",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -15,14 +15,15 @@
     "LeetCode_Divisible_and_Non-divisible_Sums_Difference": true,
     "LeetCode_Mirror_Distance_of_an_Integer": true,
     "LeetCode_Convert_the_Temperature": true,
-    "LeetCode_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three": true
+    "LeetCode_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three": true,
+    "LeetCode_Add_Two_Integers": true
   },
   "activityHistory": {
     "2026-11-11": 3,
-    "2026-11-12": 2
+    "2026-11-12": 2,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Convert the Temperature",
-    "Find Minimum Operations to Make All Elements Divisible by Three"
+    "Add Two Integers"
   ]
 }
