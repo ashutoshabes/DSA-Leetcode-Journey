@@ -1,11 +1,11 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 0,
     "hard": 0,
     "basic": 0
@@ -16,14 +16,16 @@
     "LeetCode_Mirror_Distance_of_an_Integer": true,
     "LeetCode_Convert_the_Temperature": true,
     "LeetCode_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three": true,
-    "LeetCode_Add_Two_Integers": true
+    "LeetCode_Add_Two_Integers": true,
+    "LeetCode_Valid_Perfect_Square": true
   },
   "activityHistory": {
     "2026-11-11": 3,
     "2026-11-12": 2,
-    "2026-11-13": 1
+    "2026-11-13": 2
   },
   "todayProblems": [
-    "Add Two Integers"
+    "Add Two Integers",
+    "Valid Perfect Square"
   ]
 }
