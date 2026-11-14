@@ -7,3 +7,4 @@
 | 5 | [Find Minimum Operations to Make All Elements Divisible by Three](./LeetCode/Easy/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three) | [LeetCode](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy | 12 Nov 2026 | 11:55 pm |
 | 6 | [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/add-two-integers/) | Easy | 13 Nov 2026 | 07:06 pm |
 | 7 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 13 Nov 2026 | 07:32 pm |
+| 8 | [Strictly Palindromic Number](./LeetCode/Medium/Strictly%20Palindromic%20Number) | [LeetCode](https://leetcode.com/problems/strictly-palindromic-number/) | Medium | 14 Nov 2026 | 08:56 pm |
