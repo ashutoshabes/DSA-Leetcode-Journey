@@ -8,3 +8,4 @@
 | 6 | [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/add-two-integers/) | Easy | 13 Nov 2026 | 07:06 pm |
 | 7 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 13 Nov 2026 | 07:32 pm |
 | 8 | [Strictly Palindromic Number](./LeetCode/Medium/Strictly%20Palindromic%20Number) | [LeetCode](https://leetcode.com/problems/strictly-palindromic-number/) | Medium | 14 Nov 2026 | 08:56 pm |
+| 9 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 15 Nov 2026 | 06:43 pm |

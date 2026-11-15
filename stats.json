@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-11-14",
+  "totalSolved": 9,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-11-15",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -18,15 +18,17 @@
     "LeetCode_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three": true,
     "LeetCode_Add_Two_Integers": true,
     "LeetCode_Valid_Perfect_Square": true,
-    "LeetCode_Strictly_Palindromic_Number": true
+    "LeetCode_Strictly_Palindromic_Number": true,
+    "LeetCode_Construct_Uniform_Parity_Array_I": true
   },
   "activityHistory": {
     "2026-11-11": 3,
     "2026-11-12": 2,
     "2026-11-13": 2,
-    "2026-11-14": 1
+    "2026-11-14": 1,
+    "2026-11-15": 1
   },
   "todayProblems": [
-    "Strictly Palindromic Number"
+    "Construct Uniform Parity Array I"
   ]
 }
