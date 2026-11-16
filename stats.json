@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-11-15",
+  "totalSolved": 10,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-11-16",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
@@ -19,16 +19,18 @@
     "LeetCode_Add_Two_Integers": true,
     "LeetCode_Valid_Perfect_Square": true,
     "LeetCode_Strictly_Palindromic_Number": true,
-    "LeetCode_Construct_Uniform_Parity_Array_I": true
+    "LeetCode_Construct_Uniform_Parity_Array_I": true,
+    "LeetCode_Stone_Game": true
   },
   "activityHistory": {
     "2026-11-11": 3,
     "2026-11-12": 2,
     "2026-11-13": 2,
     "2026-11-14": 1,
-    "2026-11-15": 1
+    "2026-11-15": 1,
+    "2026-11-16": 1
   },
   "todayProblems": [
-    "Construct Uniform Parity Array I"
+    "Stone Game"
   ]
 }
