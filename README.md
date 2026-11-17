@@ -10,3 +10,4 @@
 | 8 | [Strictly Palindromic Number](./LeetCode/Medium/Strictly%20Palindromic%20Number) | [LeetCode](https://leetcode.com/problems/strictly-palindromic-number/) | Medium | 14 Nov 2026 | 08:56 pm |
 | 9 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 15 Nov 2026 | 06:43 pm |
 | 10 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 16 Nov 2026 | 04:42 pm |
+| 11 | [Minimum Cost to Split into Ones](./LeetCode/Medium/Minimum%20Cost%20to%20Split%20into%20Ones) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | Medium | 17 Nov 2026 | 10:47 pm |
