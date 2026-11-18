@@ -11,3 +11,4 @@
 | 9 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 15 Nov 2026 | 06:43 pm |
 | 10 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 16 Nov 2026 | 04:42 pm |
 | 11 | [Minimum Cost to Split into Ones](./LeetCode/Medium/Minimum%20Cost%20to%20Split%20into%20Ones) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | Medium | 17 Nov 2026 | 10:47 pm |
+| 12 | [Airplane Seat Assignment Probability](./LeetCode/Medium/Airplane%20Seat%20Assignment%20Probability) | [LeetCode](https://leetcode.com/problems/airplane-seat-assignment-probability/) | Medium | 18 Nov 2026 | 10:22 pm |

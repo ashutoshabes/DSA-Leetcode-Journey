@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-11-17",
+  "totalSolved": 12,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-11-18",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -21,7 +21,8 @@
     "LeetCode_Strictly_Palindromic_Number": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
     "LeetCode_Stone_Game": true,
-    "LeetCode_Minimum_Cost_to_Split_into_Ones": true
+    "LeetCode_Minimum_Cost_to_Split_into_Ones": true,
+    "LeetCode_Airplane_Seat_Assignment_Probability": true
   },
   "activityHistory": {
     "2026-11-11": 3,
@@ -30,9 +31,10 @@
     "2026-11-14": 1,
     "2026-11-15": 1,
     "2026-11-16": 1,
-    "2026-11-17": 1
+    "2026-11-17": 1,
+    "2026-11-18": 1
   },
   "todayProblems": [
-    "Minimum Cost to Split into Ones"
+    "Airplane Seat Assignment Probability"
   ]
 }
