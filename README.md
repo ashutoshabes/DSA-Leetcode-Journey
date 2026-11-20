@@ -14,3 +14,4 @@
 | 12 | [Airplane Seat Assignment Probability](./LeetCode/Medium/Airplane%20Seat%20Assignment%20Probability) | [LeetCode](https://leetcode.com/problems/airplane-seat-assignment-probability/) | Medium | 18 Nov 2026 | 10:22 pm |
 | 13 | [Subtract the Product and Sum of Digits of an Integer](./LeetCode/Easy/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer) | [LeetCode](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 18 Nov 2026 | 10:46 pm |
 | 14 | [Nim Game](./LeetCode/Easy/Nim%20Game) | [LeetCode](https://leetcode.com/problems/nim-game/) | Easy | 19 Nov 2026 | 10:37 pm |
+| 15 | [Divisor Game](./LeetCode/Easy/Divisor%20Game) | [LeetCode](https://leetcode.com/problems/divisor-game/) | Easy | 20 Nov 2026 | 10:43 pm |
