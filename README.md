@@ -15,3 +15,4 @@
 | 13 | [Subtract the Product and Sum of Digits of an Integer](./LeetCode/Easy/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer) | [LeetCode](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | 18 Nov 2026 | 10:46 pm |
 | 14 | [Nim Game](./LeetCode/Easy/Nim%20Game) | [LeetCode](https://leetcode.com/problems/nim-game/) | Easy | 19 Nov 2026 | 10:37 pm |
 | 15 | [Divisor Game](./LeetCode/Easy/Divisor%20Game) | [LeetCode](https://leetcode.com/problems/divisor-game/) | Easy | 20 Nov 2026 | 10:43 pm |
+| 16 | [Smallest Even Multiple](./LeetCode/Easy/Smallest%20Even%20Multiple) | [LeetCode](https://leetcode.com/problems/smallest-even-multiple/) | Easy | 21 Nov 2026 | 11:12 pm |
