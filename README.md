@@ -16,3 +16,4 @@
 | 14 | [Nim Game](./LeetCode/Easy/Nim%20Game) | [LeetCode](https://leetcode.com/problems/nim-game/) | Easy | 19 Nov 2026 | 10:37 pm |
 | 15 | [Divisor Game](./LeetCode/Easy/Divisor%20Game) | [LeetCode](https://leetcode.com/problems/divisor-game/) | Easy | 20 Nov 2026 | 10:43 pm |
 | 16 | [Smallest Even Multiple](./LeetCode/Easy/Smallest%20Even%20Multiple) | [LeetCode](https://leetcode.com/problems/smallest-even-multiple/) | Easy | 21 Nov 2026 | 11:12 pm |
+| 17 | [Find the Maximum Achievable Number](./LeetCode/Easy/Find%20the%20Maximum%20Achievable%20Number) | [LeetCode](https://leetcode.com/problems/find-the-maximum-achievable-number/) | Easy | 22 Nov 2026 | 09:40 pm |
