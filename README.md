@@ -18,3 +18,4 @@
 | 16 | [Smallest Even Multiple](./LeetCode/Easy/Smallest%20Even%20Multiple) | [LeetCode](https://leetcode.com/problems/smallest-even-multiple/) | Easy | 21 Nov 2026 | 11:12 pm |
 | 17 | [Find the Maximum Achievable Number](./LeetCode/Easy/Find%20the%20Maximum%20Achievable%20Number) | [LeetCode](https://leetcode.com/problems/find-the-maximum-achievable-number/) | Easy | 22 Nov 2026 | 09:40 pm |
 | 18 | [Find Closest Person](./LeetCode/Easy/Find%20Closest%20Person) | [LeetCode](https://leetcode.com/problems/find-closest-person/) | Easy | 24 Nov 2026 | 12:07 am |
+| 19 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 25 Nov 2026 | 01:16 am |
