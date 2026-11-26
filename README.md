@@ -20,3 +20,4 @@
 | 18 | [Find Closest Person](./LeetCode/Easy/Find%20Closest%20Person) | [LeetCode](https://leetcode.com/problems/find-closest-person/) | Easy | 24 Nov 2026 | 12:07 am |
 | 19 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 25 Nov 2026 | 01:16 am |
 | 20 | [Number of Good Pairs](./LeetCode/Easy/Number%20of%20Good%20Pairs) | [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) | Easy | 25 Nov 2026 | 11:31 pm |
+| 21 | [Digit Frequency Score](./LeetCode/Easy/Digit%20Frequency%20Score) | [LeetCode](https://leetcode.com/problems/digit-frequency-score/) | Easy | 27 Nov 2026 | 12:47 am |
